@@ -1,4 +1,4 @@
-# Analyzing CNET Headlines
+# Analyzing CNET's Headlines
 
 Data for this analysis is scraped from https://www.cnet.com/sitemaps/articles/
 
